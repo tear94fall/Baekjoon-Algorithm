@@ -13,13 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\DynamicProgramming">
-      <UniqueIdentifier>{55731c51-cc51-47c2-beb8-14b24a2662ad}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2156.cpp">
-      <Filter>소스 파일\DynamicProgramming</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
