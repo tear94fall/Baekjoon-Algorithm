@@ -111,7 +111,10 @@
     <ClCompile Include="9507.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2875.cpp">
+    <ClCompile Include="Greedy Algorithm\2875.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy Algorithm\2875.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
