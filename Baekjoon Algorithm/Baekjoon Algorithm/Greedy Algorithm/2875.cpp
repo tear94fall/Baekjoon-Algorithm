@@ -4,6 +4,7 @@
  * 알고리즘 분류 : 그리디 알고리즘
  */
  
+
  #include <cstdio>
 
 int main(void){
