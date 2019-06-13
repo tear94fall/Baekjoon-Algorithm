@@ -142,7 +142,7 @@
     <ClCompile Include="2193.cpp" />
     <ClCompile Include="2293.cpp" />
     <ClCompile Include="2579.cpp" />
-    <ClCompile Include="Greedy Algorithm\2875.cpp" />
+    <ClCompile Include="Greedy Algorithm\1120.cpp" />
     <ClCompile Include="6359.cpp" />
     <ClCompile Include="9095.cpp" />
     <ClCompile Include="9461.cpp" />
